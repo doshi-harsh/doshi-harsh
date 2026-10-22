@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://doshi-harsh.github.io">
-  <img src="assets/banner.svg" alt="Harsh Doshi, DevOps, cloud and automation engineer, Ottawa" width="900">
+  <img src="assets/banner.svg" alt="Harsh Doshi, technical lead, DevOps and cloud, Ottawa" width="900">
 </a>
 
 <samp>
@@ -15,20 +15,21 @@
 
 <br>
 
-I work on the plumbing that gets software from a commit to production: **CI/CD, cloud, Linux packaging and vulnerability management.** I like turning slow, manual, nervous releases into boring, repeatable ones.
+I lead and advise engineering teams. Hands-on, I work on the plumbing that gets software from a commit to production: **CI/CD, cloud, Linux packaging and vulnerability management.** For leaders, I help with hiring, product direction and technical due diligence. I have run engineering and projects as a CTO and project manager.
 
-> 🔭 **Currently:** pipelines, Kubernetes, and vulnerability workflows that actually get closed
-> 💬 **Ask me about:** release automation, Debian packaging, CVE triage, cloud permissions
+> 🔭 **Currently:** leading hands-on engineering work: pipelines, Kubernetes and vulnerability workflows that actually get closed
+> 💬 **Ask me about:** hiring and team design, delivery planning, release automation, CVE triage, due diligence
 > 📍 **Based in:** Ottawa, Canada · certified Scrum Master
 
 ## 🎯 How I can help
 
 <details open>
-<summary><b>Six ways I unblock teams</b></summary>
+<summary><b>Seven ways I unblock teams</b></summary>
 <br>
 
 | | |
 | --- | --- |
+| 🧭 **Advise leaders** | Technical due diligence, hiring and team design, product and roadmap direction, project planning and costing |
 | ⚙️ **Automate delivery** | CI/CD, scheduled jobs and release automation that make every build repeatable |
 | ☁️ **Build on the cloud** | Kubernetes, containers and infrastructure as code on AWS, Azure and GCP |
 | 🛡️ **Secure what you ship** | Vulnerability scanning, triage and reporting; certificates and identity |
@@ -74,6 +75,7 @@ I work on the plumbing that gets software from a commit to production: **CI/CD, 
 <summary><b>Selected results (click to expand)</b></summary>
 <br>
 
+- 🧭 Served as CTO and project manager at a software and digital marketing company: client projects, status reporting, agile workflow, hosting and cloud.
 - 🧱 Broke a monolithic web application into containerised microservices on Kubernetes, improving developer workflow and scalability.
 - 🚀 Built automated deployment pipelines with Git hooks, webhooks and PowerShell, with deployment logs posted to Slack.
 - ☁️ Moved client applications from VPS hosting to AWS and Google Cloud.
