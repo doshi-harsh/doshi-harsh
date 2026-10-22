@@ -89,7 +89,7 @@ I lead and advise engineering teams. Hands-on, I work on the plumbing that gets 
 
 Pipeline that keeps breaking? Release process too slow? Security backlog nobody owns?
 
-**[✉️ Email me](mailto:me@iamharshdoshi.com?subject=Consultation%20enquiry)** with three things: what is blocking you, your stack, and your timeline. I'll tell you honestly whether and how I can help.
+**[✉️ Email me](mailto:me@iamharshdoshi.com?subject=Consultation%20enquiry)** with three things: what is blocking you, your stack, and your timeline. I reply within a day, and I'm happy to jump on a call. I'll tell you honestly whether and how I can help.
 
 <div align="center">
 <sub>🌐 <a href="https://doshi-harsh.github.io">doshi-harsh.github.io</a> · 📍 Ottawa, Ontario</sub>
