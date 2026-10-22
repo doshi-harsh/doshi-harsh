@@ -15,7 +15,7 @@
 
 <br>
 
-I lead and advise engineering teams. Hands-on, I work on the plumbing that gets software from a commit to production: **CI/CD, cloud, Linux packaging and vulnerability management.** For leaders, I help with hiring, product direction and technical due diligence. I have run engineering and projects as a CTO and project manager.
+I lead and advise engineering teams. Hands-on, I work on the plumbing that gets software from a commit to production: **CI/CD, cloud, Linux packaging and vulnerability management.** For leaders, I help with hiring, product direction and technical due diligence. I also have project management experience.
 
 > 🔭 **Currently:** leading hands-on engineering work: pipelines, Kubernetes and vulnerability workflows that actually get closed
 > 💬 **Ask me about:** hiring and team design, delivery planning, release automation, CVE triage, due diligence
@@ -75,7 +75,7 @@ I lead and advise engineering teams. Hands-on, I work on the plumbing that gets 
 <summary><b>Selected results (click to expand)</b></summary>
 <br>
 
-- 🧭 Served as CTO and project manager at a software and digital marketing company: client projects, status reporting, agile workflow, hosting and cloud.
+- 🧭 Worked as a senior engineer and project manager at a software and digital marketing company: client projects, status reporting, agile workflow, hosting and cloud.
 - 🧱 Broke a monolithic web application into containerised microservices on Kubernetes, improving developer workflow and scalability.
 - 🚀 Built automated deployment pipelines with Git hooks, webhooks and PowerShell, with deployment logs posted to Slack.
 - ☁️ Moved client applications from VPS hosting to AWS and Google Cloud.
