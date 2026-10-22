@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-label="Harsh Doshi, DevOps, cloud and automation engineer, Ottawa">
+  <style>
+    text{font-family:ui-monospace,"Cascadia Code","SF Mono",Consolas,"Liberation Mono",monospace}
+    .name{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;font-weight:700}
+    .l{opacity:0;animation:c 12s infinite}
+    .l2{animation-delay:4s}.l3{animation-delay:8s}
+    @keyframes c{0%{opacity:0}4%{opacity:1}30%{opacity:1}34%{opacity:0}100%{opacity:0}}
+    .pulse{animation:p 2s ease-in-out infinite}
+    @keyframes p{50%{opacity:.25}}
+    .cur{animation:b 1s steps(1) infinite}
+    @keyframes b{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.l,.pulse,.cur{animation:none}.l{opacity:0}.l1{opacity:1}}
+  </style>
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1e2a38" stroke-width="1"/></pattern>
+    <radialGradient id="v" cx="25%" cy="0%" r="90%"><stop offset="0" stop-color="#0b0f14" stop-opacity="0"/><stop offset="1" stop-color="#0b0f14"/></radialGradient>
+  </defs>
+  <rect width="1000" height="320" rx="14" fill="#0b0f14"/>
+  <rect width="1000" height="320" rx="14" fill="url(#g)"/>
+  <rect width="1000" height="320" rx="14" fill="url(#v)"/>
+  <rect x="1" y="1" width="998" height="318" rx="13" fill="none" stroke="#1e2a38" stroke-width="2"/>
+  <path d="M1 40V14Q1 1 14 1H40" fill="none" stroke="#4fd1c5" stroke-width="3"/>
+
+  <circle class="pulse" cx="48" cy="46" r="5" fill="#4fd1c5"/>
+  <text x="64" y="51" font-size="14" fill="#8093a8" letter-spacing="1.5">OPEN FOR A CONVERSATION  ·  OTTAWA, CANADA</text>
+
+  <text class="name" x="46" y="124" font-size="68" fill="#d9e2ee">Harsh Doshi</text>
+  <text x="48" y="160" font-size="22" font-weight="700" fill="#4fd1c5">DevOps, cloud and automation engineer</text>
+
+  <g font-size="20" fill="#8093a8">
+    <text class="l l1" x="48" y="198">I help teams ship software faster and safer.<tspan class="cur" fill="#4fd1c5"> ▌</tspan></text>
+    <text class="l l2" x="48" y="198">I turn slow releases into pipelines you can trust.<tspan class="cur" fill="#4fd1c5"> ▌</tspan></text>
+    <text class="l l3" x="48" y="198">I find, triage and fix vulnerabilities before they ship.<tspan class="cur" fill="#4fd1c5"> ▌</tspan></text>
+  </g>
+
+  <line x1="140" y1="268" x2="860" y2="268" stroke="#1e2a38" stroke-width="2"/>
+  <g font-size="13" fill="#8093a8" text-anchor="middle">
+    <circle cx="140" cy="268" r="13" fill="#0b0f14" stroke="#4fd1c5" stroke-width="2"/><text x="140" y="273" fill="#4fd1c5" font-size="12">1</text><text x="140" y="300">Commit</text>
+    <circle cx="320" cy="268" r="13" fill="#0b0f14" stroke="#4fd1c5" stroke-width="2"/><text x="320" y="273" fill="#4fd1c5" font-size="12">2</text><text x="320" y="300">Build</text>
+    <circle cx="500" cy="268" r="13" fill="#0b0f14" stroke="#4fd1c5" stroke-width="2"/><text x="500" y="273" fill="#4fd1c5" font-size="12">3</text><text x="500" y="300">Test</text>
+    <circle cx="680" cy="268" r="13" fill="#0b0f14" stroke="#4fd1c5" stroke-width="2"/><text x="680" y="273" fill="#4fd1c5" font-size="12">4</text><text x="680" y="300">Scan</text>
+    <circle cx="860" cy="268" r="13" fill="#0b0f14" stroke="#4fd1c5" stroke-width="2"/><text x="860" y="273" fill="#4fd1c5" font-size="12">5</text><text x="860" y="300">Ship</text>
+  </g>
+  <circle r="6" fill="#4fd1c5">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M140 268 L860 268"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.92;1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
